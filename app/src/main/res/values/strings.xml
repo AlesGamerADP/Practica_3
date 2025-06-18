@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Profesores</string>
+    <string name="teachers_list">Profesores</string>
+    <string name="call">Llamar</string>
+    <string name="send_email">Enviar correo</string>
+    <string name="refresh_list">Actualizar</string>
+    <string name="error_loading_data">Error al cargar datos</string>
+    <string name="no_teachers_found">No hay profesores</string>
+    <string name="toast_data_refreshed">Datos actualizados</string>
+    <string name="email_subject_template">Consulta</string>
+    <string name="email_chooser_title">Enviar correo con…</string>
+</resources>
